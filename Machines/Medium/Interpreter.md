@@ -31,7 +31,7 @@ Got the version of mirth connect → version 4.4.0
 
 <img width="732" height="67" alt="image" src="https://github.com/user-attachments/assets/8b0e4360-cf9c-4195-b428-00a02ebd077e" />
 
-### Mirth Connect version 4.4.0 has a critical vulnerability (CVE-2023-43208) that allows unauthenticated remote code execution, meaning attackers can execute arbitrary code on the server</span></body></html>
+Mirth Connect version 4.4.0 has a critical vulnerability (CVE-2023-43208) that allows unauthenticated remote code execution, meaning attackers can execute arbitrary code on the server</span></body></html>
 
 ```bash
 
